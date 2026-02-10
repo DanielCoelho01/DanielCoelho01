@@ -1,41 +1,40 @@
+Olá, sou Daniel Coelho 👋
 
-<h1 align="left">Olá, sou Daniel Coelho 👋</h1>
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Analista+de+Sistemas;Engenheiro+de+Backend;Entusiasta+de+IA" alt="Typing SVG" />
+</p>
 
-###
+Sou Analista de Sistemas em início de carreira, com foco na criação de soluções tecnológicas inteligentes, combinando análise de sistemas com a aplicação de Inteligência Artificial. Minha paixão é desenvolver soluções robustas e eficientes, sempre buscando a inovação e a otimização de processos.
 
-<h2 align="left">Analista de Sistemas | Engenheiro de Backend</h2>
+Habilidades e Tecnologias
 
-###
-
-<p align="left">Sou analista de sistemas em início de carreira, com foco na criação de soluções tecnológicas inteligentes, combinando análise de sistemas com a aplicação de Inteligência Artificial.</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35" alt="google logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+<div align="left">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </div>
 
-###
-
-<h2 align="left"></h2>
-
-###
+Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/daniel-santana-coelho-0953b2196/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+<img src="https://github-readme-stats.vercel.app/api?username=DanielCoelho&show_icons=true&theme=radical" alt="Daniel Coelho GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoelho&layout=compact&theme=radical" alt="Daniel Coelho Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielCoelho&theme=radical" alt="Daniel Coelho Streak Stats" />
+</div>
+
+Conecte-se Comigo
+
+<div align="center">
+<a href="https://www.linkedin.com/in/daniel-santana-coelho-0953b2196/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="danielsantanacoelho@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="64" height="40" alt="microsoft-outlook logo"  />
+  <a href="mailto:danielsantanacoelho@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </div>
 
-###
+
+
+
